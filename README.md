@@ -1,3 +1,5 @@
+Simple lib to share counters/integers with monitoring. E.g. send to your monitoring amount of downloaded entities from facebook during your ETL process.
+
 [TOC]
 
 # Basics
